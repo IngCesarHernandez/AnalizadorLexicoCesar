@@ -1,0 +1,32 @@
+#syntax {
+    width: 100%;
+  }
+  textarea {
+    resize: none;
+  }
+  body {
+    background-color: #35363a;
+  }
+  #info:focus {
+    border: solid 5px green;
+  }
+  
+  #processedInfo {
+    background-color: gray;
+  }
+  .custombtn {
+    margin-top: -5px;
+    width: 100%;
+  }
+  
+  h1 {
+    color: rgb(255, 255, 255, 0.7);
+  }
+  
+  th,
+  td {
+    width: 300px;
+  }
+  button{
+    color: green;
+  }
